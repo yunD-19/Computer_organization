@@ -1,0 +1,15 @@
+# Local notes and working drafts
+M1_tutanak_taslagi.md
+
+# Compiler and editor byproducts
+*.o
+*.out
+*.exe
+*.swp
+*.swo
+*~
+
+# Downloaded tools and temporary files
+*.AppImage
+*.tmp
+*.bak

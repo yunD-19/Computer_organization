@@ -2,4 +2,5 @@
 
 Öğrenci: Yunus Dalkıran (5001240017). ISA: RV32IM.
 
-M1: `ckodu.c`, Ripes ekran görüntüleri ve tutanak hazırlık taslağı. Resmî teslim tutanağı tamamlandığında bu depoya eklenecek.
+M1 dosyaları: `CMPE3209_M1_Tutanak_Final.pdf`, `ckodu.c`,
+`ckodu_rv32im_O0.elf` ve `screenshots/` içindeki Ripes ekran görüntüleri.
